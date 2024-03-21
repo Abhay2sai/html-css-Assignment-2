@@ -1,0 +1,54 @@
+.hotel{
+    border:1px solid lightgray;
+    margin:40px auto;
+    padding:20px;
+    width:400px;
+    font-family: 'Times New Roman', Times, serif;
+    position:relative;
+}
+.off{
+    background-color: blue;
+    color:white;
+    position:absolute;
+    bottom:260px;
+    padding:5px;
+    border-radius: 14px;
+}
+.img{
+    width:100%;
+    border-radius: 20px;
+}
+.time{
+    color:black;
+    background-color: white;
+    position:absolute;
+    right:25px;
+    bottom:300px;
+    border-radius: 14px;
+    padding:5px;
+}
+.promote{
+    color:white;
+    background-color: red;
+    top:20px;
+    position:absolute;
+    padding:10px;
+}
+.safe{
+    border:none;
+
+}
+.delivery{
+    width:100%;
+}
+.img2{
+    width:50px;
+    margin-bottom: 5px;
+    border-radius:14px;
+    border:2px solid black;
+
+}
+.tag{
+    padding-left: 100px;
+    margin-top:-50px;
+}
